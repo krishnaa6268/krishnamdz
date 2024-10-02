@@ -154,3 +154,15 @@ div.desc {
   display: table;
   clear: both;
 }
+
+
+/* hiring  + button properties----------- */
+.hire-res-div{
+  display: flex; 
+  flex-direction: column; 
+}
+.h-btn{
+  text-align: center;
+  display: inline-block;
+  cursor: pointer;
+}
