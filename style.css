@@ -106,6 +106,12 @@
   width:100%;
 }
 
+/* Educattion-text----------------------------- */
+.skill-txt{
+  display: flex;
+  text-align: justify;
+}
+
 
 /* Image-grid-projects ----------------------- */
 div.gallery {
