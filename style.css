@@ -203,3 +203,11 @@ div.desc {
   text-shadow: 0 0 5px #f69401;
   filter: drop-shadow(0 0 10px #03f1e1);
 }
+
+
+ /* Support form-------------------------------- */
+ .support{
+  display: block;
+  text-align: center;
+  justify-content: center;
+ }
