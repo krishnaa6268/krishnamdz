@@ -207,7 +207,12 @@ div.desc {
 
  /* Support form-------------------------------- */
  .support{
-  display: block;
-  text-align: center;
-  justify-content: center;
+  width: 80%;
+  height: 100%;
  }
+.form-aspect{
+  /* border: 1px solid white; */
+  height: 800px;
+  display: flex;
+  justify-content: center;
+}
